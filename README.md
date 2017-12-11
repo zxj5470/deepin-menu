@@ -10,6 +10,7 @@ Deepin Menu is the unified menu service for Deepin Desktop Environment.
 * python2
 * python2 setup tools
 * XCB and XLib
+* libdframeworkdbus-dev
 
 ### Runtime dependencies
 
